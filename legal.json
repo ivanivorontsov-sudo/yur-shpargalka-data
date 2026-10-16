@@ -85,7 +85,7 @@
    "sources": [
     {
      "name": "ФНС России — контакт-центр",
-     "url": "https://www.nalog.gov.ru/rn77/about_fts/contacts/",
+     "url": "https://www.nalog.gov.ru/rn25/about_fts/contacts/",
      "checked": "2026-10-16"
     },
     {
@@ -129,7 +129,7 @@
     }
    ],
    "todo": "Отказываться от разблокировок, сброса чужих паролей, обхода Google/iCloud, смены IMEI.",
-   "doubt": "Санкции сверены с текстом статьи. Конкретный случай — только с адвокатом.",
+   "doubt": null,
    "checked_at": "2026-10-16",
    "verification": "primary",
    "verification_notes": "Текст ст.272 открыт целиком 2026-10-16. Ранее санкции не были указаны — дописаны."
@@ -154,7 +154,7 @@
     }
    ],
    "todo": "Не ставить кряки, активаторы, keygen; не писать и не распространять такие программы.",
-   "doubt": "Санкции сверены с текстом статьи.",
+   "doubt": null,
    "checked_at": "2026-10-16",
    "verification": "primary",
    "verification_notes": "Текст ст.273 открыт целиком 2026-10-16."
@@ -1907,9 +1907,10 @@
    "who": "Вопросы по налогам, «Мой налог», чекам НПД. Бесплатно.",
    "phone": "8 800 222-22-22",
    "tel": "88002222222",
-   "url": "https://www.nalog.gov.ru/rn77/about_fts/contacts/",
-   "verified_on": "https://www.nalog.gov.ru/rn77/about_fts/contacts/",
-   "checked": "2026-10-16"
+   "url": "https://www.nalog.gov.ru/rn25/about_fts/contacts/",
+   "verified_on": "https://www.nalog.gov.ru/rn25/about_fts/contacts/",
+   "checked": "2026-10-16",
+   "short": "ФНС"
   },
   {
    "id": "c2",
@@ -1920,7 +1921,8 @@
    "tel": "88005550933",
    "url": "https://xn--25-9kcqjffxnf3b.xn--p1ai/contacts/",
    "verified_on": "https://xn--25-9kcqjffxnf3b.xn--p1ai/contacts/",
-   "checked": "2026-10-16"
+   "checked": "2026-10-16",
+   "short": "Мой бизнес"
   },
   {
    "id": "c3",
@@ -1931,7 +1933,8 @@
    "tel": "84232365660",
    "url": "https://www.minjust.gov.ru/ru/pages/svedeniya-o-gosudarstvennyh-yuridicheskih-byuro/",
    "verified_on": "https://www.minjust.gov.ru/ru/pages/svedeniya-o-gosudarstvennyh-yuridicheskih-byuro/",
-   "checked": "2026-10-16"
+   "checked": "2026-10-16",
+   "short": "Госюрбюро"
   },
   {
    "id": "c4",
@@ -1942,7 +1945,8 @@
    "tel": "84232223525",
    "url": "https://ap-prim.fparf.ru/legal-support/",
    "verified_on": "https://ap-prim.fparf.ru/legal-support/",
-   "checked": "2026-10-16"
+   "checked": "2026-10-16",
+   "short": "Адвокатская палата"
   },
   {
    "id": "c5",
